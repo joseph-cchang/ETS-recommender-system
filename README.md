@@ -1,1 +1,1 @@
-This is the Recommender System project created by Joseph Chang while at Educational Testing Services. Completed from August 2022 to June 2023. Project implemented using Python with Jupyter Notebook.
+This Recommender System project was created by Joseph Chang while employed as a Research and Measurement Science Intern at Educational Testing Service. Project completed from August 2022 to June 2023 and implemented using Python with Jupyter Notebook.
